@@ -1,3 +1,8 @@
+# NRT_GCB
+Here you'll find NRT land carbon flux output from the JULES DGVM. JULES is driven with the latest ERA-5 surface climate and Copernicus Burned Area (mapped to PFTs using ESA-CCI landcover).
+
+~~ JULES simulations in progress... ~~
+
 # NRT_BurnedArea
 
 Copernicus NRT daily burned area. 
