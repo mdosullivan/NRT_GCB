@@ -10,6 +10,8 @@ Mike O'S (m.osullivan@exeter.ac.uk)
 Copernicus NRT daily burned area. 
 .pdf files available in /plots/
 
+Data starts 26/06/2023 and is updated daily with a lag of 2 days (https://land.copernicus.eu/global/products/ba)
+
 ![Global Burned Area](/plots/Daily_burned_area_global.png)
 ![Regions](/plots/Regions.png)
 ![North America Burned Area](/plots/Daily_burned_area_North_America.png)
