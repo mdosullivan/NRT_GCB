@@ -1,5 +1,8 @@
 # NRT_BurnedArea
 
+Copernicus NRT daily burned area. 
+.pdf files available in /plots/
+
 ![Global Burned Area](/plots/Daily_burned_area_global.png)
 ![Regions](/plots/Regions.png)
 ![North America Burned Area](/plots/Daily_burned_area_North_America.png)
