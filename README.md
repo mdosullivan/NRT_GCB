@@ -5,7 +5,7 @@ Here you'll find NRT land carbon flux output from the JULES DGVM. JULES is drive
 
 Mike O'S (m.osullivan@exeter.ac.uk)
 
-# NRT BurnedArea
+# NRT Burned Area
 
 Copernicus NRT daily burned area. 
 .pdf files available in /plots/
